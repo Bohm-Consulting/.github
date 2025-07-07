@@ -1,6 +1,6 @@
 Ein Organization README erscheint auf der Hauptseite Ihrer GitHub-Organisation (`github.com/Bohm-Consulting`) und ist das erste, was Besucher sehen.
 
-# [Böhm Consulting]
+# Böhm Consulting
 
 ## Über uns
 
